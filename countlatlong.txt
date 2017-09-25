@@ -1,0 +1,200 @@
+Country code, Latitude, Longitude, Total mentions, Country name, Region, Continent
+MDV, Latitude: 3.25, Longitude: 73, UN general assembly mentions (1970 - 2008): 1002, Maldives, Southern and Central Asia, Asia
+FIN, Latitude: 64, Longitude: 26, UN general assembly mentions (1970 - 2008): 1021, Finland, Nordic Countries, Europe
+NER, Latitude: 16, Longitude: 8, UN general assembly mentions (1970 - 2008): 1604, Niger, Western Africa, Africa
+URY, Latitude: -33, Longitude: -56, UN general assembly mentions (1970 - 2008): 1041, Uruguay, South America, South America
+ZWE, Latitude: -20, Longitude: 30, UN general assembly mentions (1970 - 2008): 1288, Zimbabwe, Eastern Africa, Africa
+PHL, Latitude: 13, Longitude: 122, UN general assembly mentions (1970 - 2008): 1017, Philippines, Southeast Asia, Asia
+SDN, Latitude: 15, Longitude: 30, UN general assembly mentions (1970 - 2008): 2267, Sudan, Northern Africa, Africa
+RUS, Latitude: 60, Longitude: 100, UN general assembly mentions (1970 - 2008): 1333, Russian Federation, Eastern Europe, Europe
+CHN, Latitude: 35, Longitude: 105, UN general assembly mentions (1970 - 2008): 2001, China, Eastern Asia, Asia
+ESP, Latitude: 40, Longitude: -4, UN general assembly mentions (1970 - 2008): 1770, Spain, Southern Europe, Europe
+SUR, Latitude: 4, Longitude: -56, UN general assembly mentions (1970 - 2008): 1083, Suriname, South America, South America
+ARG, Latitude: -34, Longitude: -64, UN general assembly mentions (1970 - 2008): 1628, Argentina, South America, South America
+SLV, Latitude: 13.8333, Longitude: -88.9167, UN general assembly mentions (1970 - 2008): 1137, El Salvador, Central America, North America
+MYS, Latitude: 2.5, Longitude: 112.5, UN general assembly mentions (1970 - 2008): 1449, Malaysia, Southeast Asia, Asia
+NPL, Latitude: 28, Longitude: 84, UN general assembly mentions (1970 - 2008): 1666, Nepal, Southern and Central Asia, Asia
+PRT, Latitude: 39.5, Longitude: -8, UN general assembly mentions (1970 - 2008): 1842, Portugal, Southern Europe, Europe
+COL, Latitude: 4, Longitude: -72, UN general assembly mentions (1970 - 2008): 1043, Colombia, South America, South America
+BLR, Latitude: 53, Longitude: 28, UN general assembly mentions (1970 - 2008): 1355, Belarus, Eastern Europe, Europe
+MAR, Latitude: 32, Longitude: -5, UN general assembly mentions (1970 - 2008): 2152, Morocco, Northern Africa, Africa
+LCA, Latitude: 13.8833, Longitude: -61.1333, UN general assembly mentions (1970 - 2008): 1049, Saint Lucia, Caribbean, North America
+EGY, Latitude: 27, Longitude: 30, UN general assembly mentions (1970 - 2008): 2859, Egypt, Northern Africa, Africa
+MEX, Latitude: 23, Longitude: -102, UN general assembly mentions (1970 - 2008): 1278, Mexico, Central America, North America
+BEL, Latitude: 50.8333, Longitude: 4, UN general assembly mentions (1970 - 2008): 1226, Belgium, Western Europe, Europe
+BRN, Latitude: 4.5, Longitude: 114.6667, UN general assembly mentions (1970 - 2008): 299, Brunei, Southeast Asia, Asia
+RWA, Latitude: -2, Longitude: 30, UN general assembly mentions (1970 - 2008): 1819, Rwanda, Eastern Africa, Africa
+CAN, Latitude: 60, Longitude: -95, UN general assembly mentions (1970 - 2008): 1514, Canada, North America, North America
+ALB, Latitude: 41, Longitude: 20, UN general assembly mentions (1970 - 2008): 2864, Albania, Southern Europe, Europe
+GRC, Latitude: 39, Longitude: 22, UN general assembly mentions (1970 - 2008): 1877, Greece, Southern Europe, Europe
+KNA, Latitude: 17.3333, Longitude: -62.75, UN general assembly mentions (1970 - 2008): 626, Saint Kitts and Nevis, Caribbean, North America
+GUY, Latitude: 5, Longitude: -59, UN general assembly mentions (1970 - 2008): 1128, Guyana, South America, South America
+LBR, Latitude: 6.5, Longitude: -9.5, UN general assembly mentions (1970 - 2008): 2108, Liberia, Western Africa, Africa
+ATG, Latitude: 17.05, Longitude: -61.8, UN general assembly mentions (1970 - 2008): 915, Antigua and Barbuda, Caribbean, North America
+MOZ, Latitude: -18.25, Longitude: 35, UN general assembly mentions (1970 - 2008): 2056, Mozambique, Eastern Africa, Africa
+JPN, Latitude: 36, Longitude: 138, UN general assembly mentions (1970 - 2008): 2659, Japan, Eastern Asia, Asia
+YDYE, Democratic Yemen, Middle East
+GAB, Latitude: -1, Longitude: 11.75, UN general assembly mentions (1970 - 2008): 1306, Gabon, Central Africa, Africa
+BGD, Latitude: 24, Longitude: 90, UN general assembly mentions (1970 - 2008): 1335, Bangladesh, Southern and Central Asia, Asia
+SWE, Latitude: 62, Longitude: 15, UN general assembly mentions (1970 - 2008): 1309, Sweden, Nordic Countries, Europe
+TUR, Latitude: 39, Longitude: 35, UN general assembly mentions (1970 - 2008): 2183, Turkey, Middle East, Asia
+TCD, Latitude: 15, Longitude: 19, UN general assembly mentions (1970 - 2008): 2103, Chad, Central Africa, Africa
+SYR, Latitude: 35, Longitude: 38, UN general assembly mentions (1970 - 2008): 3142, Syria, Middle East, Asia
+CMR, Latitude: 6, Longitude: 12, UN general assembly mentions (1970 - 2008): 1189, Cameroon, Central Africa, Africa
+JAM, Latitude: 18.25, Longitude: -77.5, UN general assembly mentions (1970 - 2008): 1264, Jamaica, Caribbean, North America
+LUX, Latitude: 49.75, Longitude: 6.1667, UN general assembly mentions (1970 - 2008): 1353, Luxembourg, Western Europe, Europe
+ITA, Latitude: 42.8333, Longitude: 12.8333, UN general assembly mentions (1970 - 2008): 1488, Italy, Southern Europe, Europe
+AGO, Latitude: -12.5, Longitude: 18.5, UN general assembly mentions (1970 - 2008): 2003, Angola, Central Africa, Africa
+CRI, Latitude: 10, Longitude: -84, UN general assembly mentions (1970 - 2008): 1383, Costa Rica, Central America, North America
+CSK, Czechoslovakia, Eastern Europe
+BFA, Latitude: 13, Longitude: -2, UN general assembly mentions (1970 - 2008): 1269, Burkina Faso, Western Africa, Africa
+MNG, Latitude: 46, Longitude: 105, UN general assembly mentions (1970 - 2008): 1794, Mongolia, Eastern Asia, Asia
+BHR, Latitude: 26, Longitude: 50.55, UN general assembly mentions (1970 - 2008): 1988, Bahrain, Middle East, Asia
+HTI, Latitude: 19, Longitude: -72.4167, UN general assembly mentions (1970 - 2008): 1637, Haiti, Caribbean, North America
+OMN, Latitude: 21, Longitude: 57, UN general assembly mentions (1970 - 2008): 1518, Oman, Middle East, Asia
+CIV, Latitude: 8, Longitude: -5, UN general assembly mentions (1970 - 2008): 677, Côte dIvoire, Western Africa, Africa
+TGO, Latitude: 8, Longitude: 1.1667, UN general assembly mentions (1970 - 2008): 1656, Togo, Western Africa, Africa
+CYP, Latitude: 35, Longitude: 33, UN general assembly mentions (1970 - 2008): 2097, Cyprus, Middle East, Asia
+MUS, Latitude: -20.2833, Longitude: 57.55, UN general assembly mentions (1970 - 2008): 1540, Mauritius, Eastern Africa, Africa
+MMR, Latitude: 22, Longitude: 98, UN general assembly mentions (1970 - 2008): 1086, Myanmar, Southeast Asia, Asia
+ARE, Latitude: 24, Longitude: 54, UN general assembly mentions (1970 - 2008): 1678, United Arab Emirates, Middle East, Asia
+GTM, Latitude: 15.5, Longitude: -90.25, UN general assembly mentions (1970 - 2008): 1808, Guatemala, Central America, North America
+GRD, Latitude: 12.1167, Longitude: -61.6667, UN general assembly mentions (1970 - 2008): 1597, Grenada, Caribbean, North America
+LBY, Latitude: 25, Longitude: 17, UN general assembly mentions (1970 - 2008): 2076, Libyan Arab Jamahiriya, Northern Africa, Africa
+LKA, Latitude: 7, Longitude: 81, UN general assembly mentions (1970 - 2008): 1639, Sri Lanka, Southern and Central Asia, Asia
+TZA, Latitude: -6, Longitude: 35, UN general assembly mentions (1970 - 2008): 2305, Tanzania, Eastern Africa, Africa
+SGP, Latitude: 1.3667, Longitude: 103.8, UN general assembly mentions (1970 - 2008): 838, Singapore, Southeast Asia, Asia
+NOR, Latitude: 62, Longitude: 10, UN general assembly mentions (1970 - 2008): 913, Norway, Nordic Countries, Europe
+LAO, Latitude: 18, Longitude: 105, UN general assembly mentions (1970 - 2008): 1198, Laos, Southeast Asia, Asia
+ISL, Latitude: 65, Longitude: -18, UN general assembly mentions (1970 - 2008): 1040, Iceland, Nordic Countries, Europe
+AFG, Latitude: 33, Longitude: 65, UN general assembly mentions (1970 - 2008): 2724, Afghanistan, Southern and Central Asia, Asia
+CHL, Latitude: -30, Longitude: -71, UN general assembly mentions (1970 - 2008): 1619, Chile, South America, South America
+DMA, Latitude: 15.4167, Longitude: -61.3333, UN general assembly mentions (1970 - 2008): 1015, Dominica, Caribbean, North America
+UKR, Latitude: 49, Longitude: 32, UN general assembly mentions (1970 - 2008): 1785, Ukraine, Eastern Europe, Europe
+KEN, Latitude: 1, Longitude: 38, UN general assembly mentions (1970 - 2008): 2329, Kenya, Eastern Africa, Africa
+BLZ, Latitude: 17.25, Longitude: -88.75, UN general assembly mentions (1970 - 2008): 1032, Belize, Central America, North America
+FRA, Latitude: 46, Longitude: 2, UN general assembly mentions (1970 - 2008): 1868, France, Western Europe, Europe
+MLI, Latitude: 17, Longitude: -4, UN general assembly mentions (1970 - 2008): 1803, Mali, Western Africa, Africa
+VCT, Latitude: 13.25, Longitude: -61.2, UN general assembly mentions (1970 - 2008): 886, Saint Vincent and the Grenadines, Caribbean, North America
+VEN, Latitude: 8, Longitude: -66, UN general assembly mentions (1970 - 2008): 1482, Venezuela, South America, South America
+MLT, Latitude: 35.8333, Longitude: 14.5833, UN general assembly mentions (1970 - 2008): 1647, Malta, Southern Europe, Europe
+GHA, Latitude: 8, Longitude: -2, UN general assembly mentions (1970 - 2008): 1923, Ghana, Western Africa, Africa
+GIN, Latitude: 11, Longitude: -10, UN general assembly mentions (1970 - 2008): 1838, Guinea, Western Africa, Africa
+GBR, Latitude: 54, Longitude: -2, UN general assembly mentions (1970 - 2008): 1406, United Kingdom, British Islands, Europe
+ISR, Latitude: 31.5, Longitude: 34.75, UN general assembly mentions (1970 - 2008): 3171, Israel, Middle East, Asia
+YUG, Yugoslavia, Southern Europe
+BRB, Latitude: 13.1667, Longitude: -59.5333, UN general assembly mentions (1970 - 2008): 1581, Barbados, Caribbean, North America
+IRQ, Latitude: 33, Longitude: 44, UN general assembly mentions (1970 - 2008): 3979, Iraq, Middle East, Asia
+HUN, Latitude: 47, Longitude: 20, UN general assembly mentions (1970 - 2008): 1135, Hungary, Eastern Europe, Europe
+AUT, Latitude: 47.3333, Longitude: 13.3333, UN general assembly mentions (1970 - 2008): 1858, Austria, Western Europe, Europe
+POL, Latitude: 52, Longitude: 20, UN general assembly mentions (1970 - 2008): 1333, Poland, Eastern Europe, Europe
+GNB, Latitude: 12, Longitude: -15, UN general assembly mentions (1970 - 2008): 1745, Guinea-Bissau, Western Africa, Africa
+BWA, Latitude: -22, Longitude: 24, UN general assembly mentions (1970 - 2008): 1844, Botswana, Southern Africa, Africa
+MRT, Latitude: 20, Longitude: -12, UN general assembly mentions (1970 - 2008): 1514, Mauritania, Western Africa, Africa
+SWZ, Latitude: -26.5, Longitude: 31.5, UN general assembly mentions (1970 - 2008): 1024, Swaziland, Southern Africa, Africa
+DNK, Latitude: 56, Longitude: 10, UN general assembly mentions (1970 - 2008): 1308, Denmark, Nordic Countries, Europe
+DOM, Latitude: 19, Longitude: -70.6667, UN general assembly mentions (1970 - 2008): 1589, Dominican Republic, Caribbean, North America
+MDG, Latitude: -20, Longitude: 47, UN general assembly mentions (1970 - 2008): 1076, Madagascar, Eastern Africa, Africa
+NIC, Latitude: 13, Longitude: -85, UN general assembly mentions (1970 - 2008): 2047, Nicaragua, Central America, North America
+BDI, Latitude: -3.5, Longitude: 30, UN general assembly mentions (1970 - 2008): 2331, Burundi, Eastern Africa, Africa
+CUB, Latitude: 21.5, Longitude: -80, UN general assembly mentions (1970 - 2008): 3161, Cuba, Caribbean, North America
+IRN, Latitude: 32, Longitude: 53, UN general assembly mentions (1970 - 2008): 2481, Iran, Southern and Central Asia, Asia
+PAK, Latitude: 30, Longitude: 70, UN general assembly mentions (1970 - 2008): 3149, Pakistan, Southern and Central Asia, Asia
+SEN, Latitude: 14, Longitude: -14, UN general assembly mentions (1970 - 2008): 1902, Senegal, Western Africa, Africa
+BGR, Latitude: 43, Longitude: 25, UN general assembly mentions (1970 - 2008): 1807, Bulgaria, Eastern Europe, Europe
+YEM, Latitude: 15, Longitude: 48, UN general assembly mentions (1970 - 2008): 2311, Yemen, Middle East, Asia
+STP, Latitude: 1, Longitude: 7, UN general assembly mentions (1970 - 2008): 751, Sao Tome and Principe, Central Africa, Africa
+NLD, Latitude: 52.5, Longitude: 5.75, UN general assembly mentions (1970 - 2008): 1241, Netherlands, Western Europe, Europe
+VUT, Latitude: -16, Longitude: 167, UN general assembly mentions (1970 - 2008): 956, Vanuatu, Melanesia, Oceania
+BOL, Latitude: -17, Longitude: -65, UN general assembly mentions (1970 - 2008): 1924, Bolivia, South America, South America
+PNG, Latitude: -6, Longitude: 147, UN general assembly mentions (1970 - 2008): 2343, Papua New Guinea, Melanesia, Oceania
+SLB, Latitude: -8, Longitude: 159, UN general assembly mentions (1970 - 2008): 1473, Solomon Islands, Melanesia, Oceania
+DEU, Latitude: 51, Longitude: 9, UN general assembly mentions (1970 - 2008): 1545, Germany, Western Europe, Europe
+ROU, Latitude: 46, Longitude: 25, UN general assembly mentions (1970 - 2008): 1648, Romania, Eastern Europe, Europe
+KHM, Latitude: 13, Longitude: 105, UN general assembly mentions (1970 - 2008): 2061, Cambodia, Southeast Asia, Asia
+TUN, Latitude: 34, Longitude: 9, UN general assembly mentions (1970 - 2008): 1792, Tunisia, Northern Africa, Africa
+BRA, Latitude: -10, Longitude: -55, UN general assembly mentions (1970 - 2008): 1422, Brazil, South America, South America
+IND, Latitude: 20, Longitude: 77, UN general assembly mentions (1970 - 2008): 1846, India, Southern and Central Asia, Asia
+IDN, Latitude: -5, Longitude: 120, UN general assembly mentions (1970 - 2008): 1667, Indonesia, Southeast Asia, Asia
+AUS, Latitude: -27, Longitude: 133, UN general assembly mentions (1970 - 2008): 2277, Australia, Australia and New Zealand, Oceania
+COD, Latitude: 0, Longitude: 25, UN general assembly mentions (1970 - 2008): 1558, Congo, The Democratic Republic of the, Central Africa, Africa
+HND, Latitude: 15, Longitude: -86.5, UN general assembly mentions (1970 - 2008): 1375, Honduras, Central America, North America
+GNQ, Latitude: 2, Longitude: 10, UN general assembly mentions (1970 - 2008): 1647, Equatorial Guinea, Central Africa, Africa
+FJI, Latitude: -18, Longitude: 175, UN general assembly mentions (1970 - 2008): 886, Fiji Islands, Melanesia, Oceania
+IRL, Latitude: 53, Longitude: -8, UN general assembly mentions (1970 - 2008): 2432, Ireland, British Islands, Europe
+DZA, Latitude: 28, Longitude: 3, UN general assembly mentions (1970 - 2008): 1356, Algeria, Northern Africa, Africa
+USA, Latitude: 38, Longitude: -97, UN general assembly mentions (1970 - 2008): 2095, United States, North America, North America
+LSO, Latitude: -29.5, Longitude: 28.5, UN general assembly mentions (1970 - 2008): 1623, Lesotho, Southern Africa, Africa
+GMB, Latitude: 13.4667, Longitude: -16.5667, UN general assembly mentions (1970 - 2008): 1565, Gambia, Western Africa, Africa
+PER, Latitude: -10, Longitude: -76, UN general assembly mentions (1970 - 2008): 1312, Peru, South America, South America
+DDR, East Germany, Western Europe
+THA, Latitude: 15, Longitude: 100, UN general assembly mentions (1970 - 2008): 1635, Thailand, Southeast Asia, Asia
+JOR, Latitude: 31, Longitude: 36, UN general assembly mentions (1970 - 2008): 2397, Jordan, Middle East, Asia
+COG, Latitude: -1, Longitude: 15, UN general assembly mentions (1970 - 2008): 1610, Congo, Central Africa, Africa
+NGA, Latitude: 10, Longitude: 8, UN general assembly mentions (1970 - 2008): 2262, Nigeria, Western Africa, Africa
+ECU, Latitude: -2, Longitude: -77.5, UN general assembly mentions (1970 - 2008): 1627, Ecuador, South America, South America
+SAU, Latitude: 25, Longitude: 45, UN general assembly mentions (1970 - 2008): 1676, Saudi Arabia, Middle East, Asia
+QAT, Latitude: 25.5, Longitude: 51.25, UN general assembly mentions (1970 - 2008): 1265, Qatar, Middle East, Asia
+SYC, Latitude: -4.5833, Longitude: 55.6667, UN general assembly mentions (1970 - 2008): 601, Seychelles, Eastern Africa, Africa
+ETH, Latitude: 8, Longitude: 38, UN general assembly mentions (1970 - 2008): 2239, Ethiopia, Eastern Africa, Africa
+TTO, Latitude: 11, Longitude: -61, UN general assembly mentions (1970 - 2008): 1189, Trinidad and Tobago, Caribbean, North America
+PRY, Latitude: -23, Longitude: -58, UN general assembly mentions (1970 - 2008): 1444, Paraguay, South America, South America
+VNM, Latitude: 16, Longitude: 106, UN general assembly mentions (1970 - 2008): 1244, Vietnam, Southeast Asia, Asia
+NZL, Latitude: -41, Longitude: 174, UN general assembly mentions (1970 - 2008): 1736, New Zealand, Australia and New Zealand, Oceania
+PAN, Latitude: 9, Longitude: -80, UN general assembly mentions (1970 - 2008): 2615, Panama, Central America, North America
+MWI, Latitude: -13.5, Longitude: 34, UN general assembly mentions (1970 - 2008): 1432, Malawi, Eastern Africa, Africa
+DJI, Latitude: 11.5, Longitude: 43, UN general assembly mentions (1970 - 2008): 1274, Djibouti, Eastern Africa, Africa
+BEN, Latitude: 9.5, Longitude: 2.25, UN general assembly mentions (1970 - 2008): 1744, Benin, Western Africa, Africa
+SOM, Latitude: 10, Longitude: 49, UN general assembly mentions (1970 - 2008): 1605, Somalia, Eastern Africa, Africa
+ZMB, Latitude: -15, Longitude: 30, UN general assembly mentions (1970 - 2008): 2409, Zambia, Eastern Africa, Africa
+CPV, Latitude: 16, Longitude: -24, UN general assembly mentions (1970 - 2008): 856, Cape Verde, Western Africa, Africa
+BHS, Latitude: 24.25, Longitude: -76, UN general assembly mentions (1970 - 2008): 1612, Bahamas, Caribbean, North America
+KWT, Latitude: 29.3375, Longitude: 47.6581, UN general assembly mentions (1970 - 2008): 2585, Kuwait, Middle East, Asia
+UGA, Latitude: 1, Longitude: 32, UN general assembly mentions (1970 - 2008): 2241, Uganda, Eastern Africa, Africa
+COM, Latitude: -12.1667, Longitude: 44.25, UN general assembly mentions (1970 - 2008): 1216, Comoros, Eastern Africa, Africa
+ZAF, Latitude: -29, Longitude: 24, UN general assembly mentions (1970 - 2008): 567, South Africa, Southern Africa, Africa
+LBN, Latitude: 33.8333, Longitude: 35.8333, UN general assembly mentions (1970 - 2008): 2510, Lebanon, Middle East, Asia
+SLE, Latitude: 8.5, Longitude: -11.5, UN general assembly mentions (1970 - 2008): 1697, Sierra Leone, Western Africa, Africa
+KOR, Latitude: 37, Longitude: 127.5, UN general assembly mentions (1970 - 2008): 291, South Korea, Eastern Asia, Asia
+BIH, Latitude: 44, Longitude: 18, UN general assembly mentions (1970 - 2008): 619, Bosnia and Herzegovina, Southern Europe, Europe
+TON, Latitude: -20, Longitude: -175, UN general assembly mentions (1970 - 2008): 380, Tonga, Polynesia, Oceania
+EU, European Union, Western Europe
+HRV, Latitude: 45.1667, Longitude: 15.5, UN general assembly mentions (1970 - 2008): 1132, Croatia, Southern Europe, Europe
+NRU, Latitude: -0.5333, Longitude: 166.9167, UN general assembly mentions (1970 - 2008): 426, Nauru, Micronesia, Oceania
+TUV, Latitude: -8, Longitude: 178, UN general assembly mentions (1970 - 2008): 489, Tuvalu, Polynesia, Oceania
+NAM, Latitude: -22, Longitude: 17, UN general assembly mentions (1970 - 2008): 963, Namibia, Southern Africa, Africa
+SMR, Latitude: 43.7667, Longitude: 12.4167, UN general assembly mentions (1970 - 2008): 384, San Marino, Southern Europe, Europe
+LIE, Latitude: 47.1667, Longitude: 9.5333, UN general assembly mentions (1970 - 2008): 248, Liechtenstein, Western Europe, Europe
+MKD, Latitude: 41.8333, Longitude: 22, UN general assembly mentions (1970 - 2008): 596, Macedonia, Southern Europe, Europe
+TLS, Latitude: -8.55, Longitude: 125.5167, UN general assembly mentions (1970 - 2008): 358, East Timor, Southeast Asia, Asia
+FSM, Latitude: 6.9167, Longitude: 158.25, UN general assembly mentions (1970 - 2008): 296, Micronesia, Federated States of, Micronesia, Oceania
+KIR, Latitude: 1.4167, Longitude: 173, UN general assembly mentions (1970 - 2008): 177, Kiribati, Micronesia, Oceania
+BTN, Latitude: 27.5, Longitude: 90.5, UN general assembly mentions (1970 - 2008): 863, Bhutan, Southern and Central Asia, Asia
+SVK, Latitude: 48.6667, Longitude: 19.5, UN general assembly mentions (1970 - 2008): 601, Slovakia, Eastern Europe, Europe
+WSM, Latitude: -13.5833, Longitude: -172.3333, UN general assembly mentions (1970 - 2008): 831, Samoa, Polynesia, Oceania
+MNE, Latitude: 42, Longitude: 19, UN general assembly mentions (1970 - 2008): 232, Montenegro, Eastern Europe, Europe
+GEO, Latitude: 42, Longitude: 43.5, UN general assembly mentions (1970 - 2008): 940, Georgia, Middle East, Asia
+LTU, Latitude: 56, Longitude: 24, UN general assembly mentions (1970 - 2008): 511, Lithuania, Baltic Countries, Europe
+AND, Latitude: 42.5, Longitude: 1.6, UN general assembly mentions (1970 - 2008): 442, Andorra, Southern Europe, Europe
+TJK, Latitude: 39, Longitude: 71, UN general assembly mentions (1970 - 2008): 778, Tajikistan, Southern and Central Asia, Asia
+MHL, Latitude: 9, Longitude: 168, UN general assembly mentions (1970 - 2008): 509, Marshall Islands, Micronesia, Oceania
+EST, Latitude: 59, Longitude: 26, UN general assembly mentions (1970 - 2008): 633, Estonia, Baltic Countries, Europe
+LVA, Latitude: 57, Longitude: 25, UN general assembly mentions (1970 - 2008): 971, Latvia, Baltic Countries, Europe
+CAF, Latitude: 7, Longitude: 21, UN general assembly mentions (1970 - 2008): 1209, Central African Republic, Central Africa, Africa
+TKM, Latitude: 40, Longitude: 60, UN general assembly mentions (1970 - 2008): 584, Turkmenistan, Southern and Central Asia, Asia
+MDA, Latitude: 47, Longitude: 29, UN general assembly mentions (1970 - 2008): 681, Moldova, Eastern Europe, Europe
+SSD, South Sudan, Northern Africa
+KGZ, Latitude: 41, Longitude: 75, UN general assembly mentions (1970 - 2008): 504, Kyrgyzstan, Southern and Central Asia, Asia
+AZE, Latitude: 40.5, Longitude: 47.5, UN general assembly mentions (1970 - 2008): 1257, Azerbaijan, Middle East, Asia
+PSE, Latitude: 32, Longitude: 35.25, UN general assembly mentions (1970 - 2008): 816, Palestine, Middle East, Asia
+PRK, Latitude: 40, Longitude: 127, UN general assembly mentions (1970 - 2008): 463, North Korea, Eastern Asia, Asia
+CZE, Latitude: 49.75, Longitude: 15.5, UN general assembly mentions (1970 - 2008): 531, Czech Republic, Eastern Europe, Europe
+ERI, Latitude: 15, Longitude: 39, UN general assembly mentions (1970 - 2008): 828, Eritrea, Eastern Africa, Africa
+ARM, Latitude: 40, Longitude: 45, UN general assembly mentions (1970 - 2008): 743, Armenia, Middle East, Asia
+UZB, Latitude: 41, Longitude: 64, UN general assembly mentions (1970 - 2008): 440, Uzbekistan, Southern and Central Asia, Asia
+PLW, Latitude: 7.5, Longitude: 134.5, UN general assembly mentions (1970 - 2008): 467, Palau, Micronesia, Oceania
+VAT, Latitude: 41.9, Longitude: 12.45, UN general assembly mentions (1970 - 2008): 59, Holy See (Vatican City State), Southern Europe, Europe
+MCO, Latitude: 43.7333, Longitude: 7.4, UN general assembly mentions (1970 - 2008): 351, Monaco, Western Europe, Europe
+CHE, Latitude: 47, Longitude: 8, UN general assembly mentions (1970 - 2008): 208, Switzerland, Western Europe, Europe
+KAZ, Latitude: 48, Longitude: 68, UN general assembly mentions (1970 - 2008): 237, Kazakstan, Southern and Central Asia, Asia
+SVN, Latitude: 46, Longitude: 15, UN general assembly mentions (1970 - 2008): 385, Slovenia, Southern Europe, Europe
