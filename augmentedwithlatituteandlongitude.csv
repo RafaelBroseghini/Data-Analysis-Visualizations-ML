@@ -1,0 +1,200 @@
+Countrycode,Latitude,Longitude,Totalmentions,Countryname,Region,Continent
+MDV, 3.25, 73, 485, Maldives, Southern and Central Asia, Asia
+FIN, 64, 26, 551, Finland, Nordic Countries, Europe
+NER, 16, 8, 1761, Niger, Western Africa, Africa
+URY, -33, -56, 1262, Uruguay, South America, South America
+ZWE, -20, 30, 2581, Zimbabwe, Eastern Africa, Africa
+PHL, 13, 122, 541, Philippines, Southeast Asia, Asia
+SDN, 15, 30, 2631, Sudan, Northern Africa, Africa
+RUS, 60, 100, 325, Russian Federation, Eastern Europe, Europe
+CHN, 35, 105, 4780, China, Eastern Asia, Asia
+ESP, 40, -4, 1421, Spain, Southern Europe, Europe
+SUR, 4, -56, 507, Suriname, South America, South America
+ARG, -34, -64, 1204, Argentina, South America, South America
+SLV, 13.8333, -88.9167, 1097, El Salvador, Central America, North America
+MYS, 2.5, 112.5, 783, Malaysia, Southeast Asia, Asia
+NPL, 28, 84, 894, Nepal, Southern and Central Asia, Asia
+PRT, 39.5, -8, 1770, Portugal, Southern Europe, Europe
+COL, 4, -72, 1146, Colombia, South America, South America
+BLR, 53, 28, 519, Belarus, Eastern Europe, Europe
+MAR, 32, -5, 1427, Morocco, Northern Africa, Africa
+LCA, 13.8833, -61.1333, 692, Saint Lucia, Caribbean, North America
+EGY, 27, 30, 2352, Egypt, Northern Africa, Africa
+MEX, 23, -102, 1638, Mexico, Central America, North America
+BEL, 50.8333, 4, 556, Belgium, Western Europe, Europe
+BRN, 4.5, 114.6667, 280, Brunei, Southeast Asia, Asia
+RWA, -2, 30, 1914, Rwanda, Eastern Africa, Africa
+CAN, 60, -95, 1133, Canada, North America, North America
+ALB, 41, 20, 1443, Albania, Southern Europe, Europe
+GRC, 39, 22, 881, Greece, Southern Europe, Europe
+KNA, 17.3333, -62.75, 233, Saint Kitts and Nevis, Caribbean, North America
+GUY, 5, -59, 605, Guyana, South America, South America
+LBR, 6.5, -9.5, 2073, Liberia, Western Africa, Africa
+ATG, 17.05, -61.8, 322, Antigua and Barbuda, Caribbean, North America
+MOZ, -18.25, 35, 1882, Mozambique, Eastern Africa, Africa
+JPN, 36, 138, 2908, Japan, Eastern Asia, Asia
+YDYE, Democratic Yemen, Middle East
+GAB, -1, 11.75, 704, Gabon, Central Africa, Africa
+BGD, 24, 90, 1282, Bangladesh, Southern and Central Asia, Asia
+SWE, 62, 15, 584, Sweden, Nordic Countries, Europe
+TUR, 39, 35, 1472, Turkey, Middle East, Asia
+TCD, 15, 19, 2118, Chad, Central Africa, Africa
+SYR, 35, 38, 3695, Syria, Middle East, Asia
+CMR, 6, 12, 498, Cameroon, Central Africa, Africa
+JAM, 18.25, -77.5, 641, Jamaica, Caribbean, North America
+LUX, 49.75, 6.1667, 443, Luxembourg, Western Europe, Europe
+ITA, 42.8333, 12.8333, 917, Italy, Southern Europe, Europe
+AGO, -12.5, 18.5, 4158, Angola, Central Africa, Africa
+CRI, 10, -84, 858, Costa Rica, Central America, North America
+CSK, Czechoslovakia, Eastern Europe
+BFA, 13, -2, 375, Burkina Faso, Western Africa, Africa
+MNG, 46, 105, 986, Mongolia, Eastern Asia, Asia
+BHR, 26, 50.55, 608, Bahrain, Middle East, Asia
+HTI, 19, -72.4167, 2521, Haiti, Caribbean, North America
+OMN, 21, 57, 387, Oman, Middle East, Asia
+CIV, 8, -5, 0, Côte dIvoire, Western Africa, Africa
+TGO, 8, 1.1667, 673, Togo, Western Africa, Africa
+CYP, 35, 33, 4339, Cyprus, Middle East, Asia
+MUS, -20.2833, 57.55, 775, Mauritius, Eastern Africa, Africa
+MMR, 22, 98, 800, Myanmar, Southeast Asia, Asia
+ARE, 24, 54, 442, United Arab Emirates, Middle East, Asia
+GTM, 15.5, -90.25, 1644, Guatemala, Central America, North America
+GRD, 12.1167, -61.6667, 1102, Grenada, Caribbean, North America
+LBY, 25, 17, 231, Libyan Arab Jamahiriya, Northern Africa, Africa
+LKA, 7, 81, 952, Sri Lanka, Southern and Central Asia, Asia
+TZA, -6, 35, 900, Tanzania, Eastern Africa, Africa
+SGP, 1.3667, 103.8, 226, Singapore, Southeast Asia, Asia
+NOR, 62, 10, 534, Norway, Nordic Countries, Europe
+LAO, 18, 105, 555, Laos, Southeast Asia, Asia
+ISL, 65, -18, 596, Iceland, Nordic Countries, Europe
+AFG, 33, 65, 6052, Afghanistan, Southern and Central Asia, Asia
+CHL, -30, -71, 1862, Chile, South America, South America
+DMA, 15.4167, -61.3333, 1159, Dominica, Caribbean, North America
+UKR, 49, 32, 1224, Ukraine, Eastern Europe, Europe
+KEN, 1, 38, 1108, Kenya, Eastern Africa, Africa
+BLZ, 17.25, -88.75, 1090, Belize, Central America, North America
+FRA, 46, 2, 2200, France, Western Europe, Europe
+MLI, 17, -4, 1220, Mali, Western Africa, Africa
+VCT, 13.25, -61.2, 366, Saint Vincent and the Grenadines, Caribbean, North America
+VEN, 8, -66, 1164, Venezuela, South America, South America
+MLT, 35.8333, 14.5833, 1075, Malta, Southern Europe, Europe
+GHA, 8, -2, 677, Ghana, Western Africa, Africa
+GIN, 11, -10, 3835, Guinea, Western Africa, Africa
+GBR, 54, -2, 1461, United Kingdom, British Islands, Europe
+ISR, 31.5, 34.75, 17567, Israel, Middle East, Asia
+YUG, Yugoslavia, Southern Europe
+BRB, 13.1667, -59.5333, 1185, Barbados, Caribbean, North America
+IRQ, 33, 44, 9157, Iraq, Middle East, Asia
+HUN, 47, 20, 469, Hungary, Eastern Europe, Europe
+AUT, 47.3333, 13.3333, 991, Austria, Western Europe, Europe
+POL, 52, 20, 1014, Poland, Eastern Europe, Europe
+GNB, 12, -15, 1030, Guinea-Bissau, Western Africa, Africa
+BWA, -22, 24, 482, Botswana, Southern Africa, Africa
+MRT, 20, -12, 663, Mauritania, Western Africa, Africa
+SWZ, -26.5, 31.5, 492, Swaziland, Southern Africa, Africa
+DNK, 56, 10, 511, Denmark, Nordic Countries, Europe
+DOM, 19, -70.6667, 524, Dominican Republic, Caribbean, North America
+MDG, -20, 47, 479, Madagascar, Eastern Africa, Africa
+NIC, 13, -85, 1787, Nicaragua, Central America, North America
+BDI, -3.5, 30, 1702, Burundi, Eastern Africa, Africa
+CUB, 21.5, -80, 2816, Cuba, Caribbean, North America
+IRN, 32, 53, 4805, Iran, Southern and Central Asia, Asia
+PAK, 30, 70, 2524, Pakistan, Southern and Central Asia, Asia
+SEN, 14, -14, 765, Senegal, Western Africa, Africa
+BGR, 43, 25, 1040, Bulgaria, Eastern Europe, Europe
+YEM, 15, 48, 1209, Yemen, Middle East, Asia
+STP, 1, 7, 333, Sao Tome and Principe, Central Africa, Africa
+NLD, 52.5, 5.75, 659, Netherlands, Western Europe, Europe
+VUT, -16, 167, 572, Vanuatu, Melanesia, Oceania
+BOL, -17, -65, 1370, Bolivia, South America, South America
+PNG, -6, 147, 840, Papua New Guinea, Melanesia, Oceania
+SLB, -8, 159, 958, Solomon Islands, Melanesia, Oceania
+DEU, 51, 9, 2107, Germany, Western Europe, Europe
+ROU, 46, 25, 1049, Romania, Eastern Europe, Europe
+KHM, 13, 105, 2799, Cambodia, Southeast Asia, Asia
+TUN, 34, 9, 944, Tunisia, Northern Africa, Africa
+BRA, -10, -55, 1552, Brazil, South America, South America
+IND, 20, 77, 4443, India, Southern and Central Asia, Asia
+IDN, -5, 120, 1292, Indonesia, Southeast Asia, Asia
+AUS, -27, 133, 1572, Australia, Australia and New Zealand, Oceania
+COD, 0, 25, 0, Congo The Democratic Republic of the, Central Africa, Africa
+HND, 15, -86.5, 987, Honduras, Central America, North America
+GNQ, 2, 10, 544, Equatorial Guinea, Central Africa, Africa
+FJI, -18, 175, 11, Fiji Islands, Melanesia, Oceania
+IRL, 53, -8, 1314, Ireland, British Islands, Europe
+DZA, 28, 3, 964, Algeria, Northern Africa, Africa
+USA, 38, -97, 11714, United States, North America, North America
+LSO, -29.5, 28.5, 525, Lesotho, Southern Africa, Africa
+GMB, 13.4667, -16.5667, 454, Gambia, Western Africa, Africa
+PER, -10, -76, 1138, Peru, South America, South America
+DDR, East Germany, Western Europe
+THA, 15, 100, 1065, Thailand, Southeast Asia, Asia
+JOR, 31, 36, 1223, Jordan, Middle East, Asia
+COG, -1, 15, 2142, Congo, Central Africa, Africa
+NGA, 10, 8, 943, Nigeria, Western Africa, Africa
+ECU, -2, -77.5, 1184, Ecuador, South America, South America
+SAU, 25, 45, 613, Saudi Arabia, Middle East, Asia
+QAT, 25.5, 51.25, 482, Qatar, Middle East, Asia
+SYC, -4.5833, 55.6667, 433, Seychelles, Eastern Africa, Africa
+ETH, 8, 38, 1572, Ethiopia, Eastern Africa, Africa
+TTO, 11, -61, 669, Trinidad and Tobago, Caribbean, North America
+PRY, -23, -58, 919, Paraguay, South America, South America
+VNM, 16, 106, 1123, Vietnam, Southeast Asia, Asia
+NZL, -41, 174, 1037, New Zealand, Australia and New Zealand, Oceania
+PAN, 9, -80, 2225, Panama, Central America, North America
+MWI, -13.5, 34, 761, Malawi, Eastern Africa, Africa
+DJI, 11.5, 43, 540, Djibouti, Eastern Africa, Africa
+BEN, 9.5, 2.25, 630, Benin, Western Africa, Africa
+SOM, 10, 49, 2747, Somalia, Eastern Africa, Africa
+ZMB, -15, 30, 981, Zambia, Eastern Africa, Africa
+CPV, 16, -24, 514, Cape Verde, Western Africa, Africa
+BHS, 24.25, -76, 1083, Bahamas, Caribbean, North America
+KWT, 29.3375, 47.6581, 2143, Kuwait, Middle East, Asia
+UGA, 1, 32, 1107, Uganda, Eastern Africa, Africa
+COM, -12.1667, 44.25, 662, Comoros, Eastern Africa, Africa
+ZAF, -29, 24, 12881, South Africa, Southern Africa, Africa
+LBN, 33.8333, 35.8333, 5223, Lebanon, Middle East, Asia
+SLE, 8.5, -11.5, 1031, Sierra Leone, Western Africa, Africa
+KOR, 37, 127.5, 806, South Korea, Eastern Asia, Asia
+BIH, 44, 18, 1122, Bosnia and Herzegovina, Southern Europe, Europe
+TON, -20, -175, 404, Tonga, Polynesia, Oceania
+EU, European Union, Western Europe
+HRV, 45.1667, 15.5, 954, Croatia, Southern Europe, Europe
+NRU, -0.5333, 166.9167, 408, Nauru, Micronesia, Oceania
+TUV, -8, 178, 523, Tuvalu, Polynesia, Oceania
+NAM, -22, 17, 8784, Namibia, Southern Africa, Africa
+SMR, 43.7667, 12.4167, 322, San Marino, Southern Europe, Europe
+LIE, 47.1667, 9.5333, 264, Liechtenstein, Western Europe, Europe
+MKD, 41.8333, 22, 558, Macedonia, Southern Europe, Europe
+TLS, -8.55, 125.5167, 1048, East Timor, Southeast Asia, Asia
+FSM, 6.9167, 158.25, 0, Micronesia Federated States of, Micronesia, Oceania
+KIR, 1.4167, 173, 260, Kiribati, Micronesia, Oceania
+BTN, 27.5, 90.5, 389, Bhutan, Southern and Central Asia, Asia
+SVK, 48.6667, 19.5, 356, Slovakia, Eastern Europe, Europe
+WSM, -13.5833, -172.3333, 385, Samoa, Polynesia, Oceania
+MNE, 42, 19, 368, Montenegro, Eastern Europe, Europe
+GEO, 42, 43.5, 1024, Georgia, Middle East, Asia
+LTU, 56, 24, 480, Lithuania, Baltic Countries, Europe
+AND, 42.5, 1.6, 362, Andorra, Southern Europe, Europe
+TJK, 39, 71, 687, Tajikistan, Southern and Central Asia, Asia
+MHL, 9, 168, 465, Marshall Islands, Micronesia, Oceania
+EST, 59, 26, 645, Estonia, Baltic Countries, Europe
+LVA, 57, 25, 831, Latvia, Baltic Countries, Europe
+CAF, 7, 21, 646, Central African Republic, Central Africa, Africa
+TKM, 40, 60, 486, Turkmenistan, Southern and Central Asia, Asia
+MDA, 47, 29, 582, Moldova, Eastern Europe, Europe
+SSD, South Sudan, Northern Africa
+KGZ, 41, 75, 363, Kyrgyzstan, Southern and Central Asia, Asia
+AZE, 40.5, 47.5, 1094, Azerbaijan, Middle East, Asia
+PSE, 32, 35.25, 5047, Palestine, Middle East, Asia
+PRK, 40, 127, 341, North Korea, Eastern Asia, Asia
+CZE, 49.75, 15.5, 295, Czech Republic, Eastern Europe, Europe
+ERI, 15, 39, 836, Eritrea, Eastern Africa, Africa
+ARM, 40, 45, 870, Armenia, Middle East, Asia
+UZB, 41, 64, 323, Uzbekistan, Southern and Central Asia, Asia
+PLW, 7.5, 134.5, 365, Palau, Micronesia, Oceania
+VAT, 41.9, 12.45, 0, Holy See (Vatican City State), Southern Europe, Europe
+MCO, 43.7333, 7.4, 307, Monaco, Western Europe, Europe
+CHE, 47, 8, 346, Switzerland, Western Europe, Europe
+KAZ, 48, 68, 44, Kazakstan, Southern and Central Asia, Asia
+SVN, 46, 15, 258, Slovenia, Southern Europe, Europe
