@@ -1,2 +1,2 @@
-# DS320
-This repository includes my work for DS320 (Data Analysis and Visualization) assignments.
+# Data-Analysis-Visualizations-Machine-Learning
+This repository includes jupyter notebooks containing machine learning algorithms and/or data analysis.
